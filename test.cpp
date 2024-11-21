@@ -10,6 +10,7 @@ using namespace cv;
 
 
 void main() {
+	//Face Detetcion App:
 	VideoCapture video(0);
 	video.set(CAP_PROP_FRAME_HEIGHT, 480);
 	video.set(CAP_PROP_FRAME_WIDTH, 640);
