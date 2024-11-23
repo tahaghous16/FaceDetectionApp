@@ -4,17 +4,16 @@
 This project is a real-time face detection application built with C++ using the OpenCV library. It uses the webcam feed to detect faces in real-time and highlights them with red rectangles.
 
 # Features
--Real-time face detection using Haar cascades.
--Highlights detected faces with red rectangles.
--Flips the video feed horizontally for a natural mirror view.
--Processes video at a resolution of 640x480 pixels.
+-Real-time face detection using Haar cascades. <br/>
+-Highlights detected faces with red rectangles. <br/>
+-Processes video at a resolution of 640x480 pixels. <br/>
 
 # Hardware
 A system with a functioning webcam.
 
-#Software
-OpenCV (version 4.x or higher recommended)
-C++ compiler (e.g., GCC, MSVC)
+# Software
+OpenCV (version 4.x or higher recommended) <br/>
+C++ compiler <br/>
 Supported operating system: Windows/Linux/MacOS.
 
 # Conclusion
