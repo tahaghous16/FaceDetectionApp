@@ -9,7 +9,7 @@ using namespace std;
 using namespace cv;
 
 
-void main() {
+int main() {
 	//Face Detetcion App:
 	VideoCapture video(0);
 	video.set(CAP_PROP_FRAME_HEIGHT, 480);
